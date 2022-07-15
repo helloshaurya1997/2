@@ -38,7 +38,7 @@ if(hr >= 17 && hr <=23){
     fill("yellow");
     text("Good Evening",windowWidth/2-190,windowHeight/2-160);
     text("Welcome to",windowWidth/2-340,windowHeight/2-90);
-    fill("red");
+    fill("blue");
     stroke("black");
     strokeWeight(2);
     text("ROBO APP",windowWidth/2-10,windowHeight/2-90);
